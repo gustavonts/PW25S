@@ -1,2 +1,2 @@
 # PW25S
-Projeto da disciplina de PW
+Projeto da disciplina de PW25S
